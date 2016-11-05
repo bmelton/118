@@ -19,8 +19,8 @@ as follows:
 | /u/SecondHandEmotion | 21 | /u/Cpt_Repeato |
 | /u/trcsteve | 23 | /u/umbreonman10 |
 | /u/Artikash | 24 | /u/Liberator786 |
-| /u/Jrodkin  | 26  /u/Fleebjack |
-| /u/dismantlepiece  |  27  /u/WarOnConsciousness |
+| /u/Jrodkin  | 26 | /u/Fleebjack |
+| /u/dismantlepiece  |  27 | /u/WarOnConsciousness |
 | /u/lukesanoob  |  29  | /u/Rowandahbirdman |
 | /u/EnigmaKitty |  30  | /u/Gurchimo |
 | /u/talideon | 31  | /u/dharasick |
