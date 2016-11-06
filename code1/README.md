@@ -44,3 +44,12 @@ you in the 118 subreddit on your profile.
 
 So, apparently the first code simply gives us some insight as to how it works. 
 Time will tell if that's meaningful.  
+
+What I'm wondering now is if there's any significance to the "pt 1" in the 
+thread title.  For [Code 2](https://www.reddit.com/r/118/comments/4nj0b8/recap_for_1062016_fmdkufutdngfmdody/), 
+the thread title has "Recap <the date>", and then has a code in parentheses, 
+"(fmdkufutdngfmdody)".  
+
+That proves meaningful later, so I'm not yet ready to discard the "pt 1" in 
+the Code 1 title.  If I later find a recap with "pt 2" in the thread title, 
+I might be willing to let it go. 
