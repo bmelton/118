@@ -1,0 +1,15 @@
+import binascii
+
+string = "ahahahaaahhahaaaahhahhhhahhhaahhahhaahahaahaaaaaahhaahhaahhhaahaahhahhhhahhahhahaahaaaaaaahahhhhahhhaahaaahahhhhahhaaahhahhahhhhahhhahahahhahhhaahhhahaaahhahaahahhahhhaahhaahhhaahaaaaaahhhahhhahhahhhhahhahhhaaahaahhhahhhahaaaahaaaaaahhahhaaahhaaaahahhhaahhahhhahaaaahaaaaaahhahaaaahhaahahahhhaahaahhaahahaahaaaaaahhaaahaahhaahahahhaaahhahhaaaahahhhahahahhhaahhahhaahahaahaaaaaahhhhaahahhahhhhahhhahahaahaaaaaahhahhhhahhahhhaahhahhaaahhhhaahaahaaaaaahhahaaaahhaaaahahhhahhaahhaahahaahaaaaaaahhaaahaahhaaaaaahhaaaaaahhaaaaaahaaaaaahhahhhhahhaahhaaahaaaaaahhhahhhahhahaaaahhaaaahahhhahaa"
+
+
+def convert_string_to_binary(code):
+    output = code.replace("a", "1")
+    output = output.replace("h", "0")
+    return output
+
+in_string = convert_string_to_binary(string)
+print(in_string)
+
+output = binascii.unhexlify('%x' % int(in_string, 2))
+print(output)
